@@ -1,0 +1,22 @@
+<template>
+<div>
+  <div class="home">
+    home
+  </div>
+  <!-- <router-link to='list'>list</router-link> -->
+  </div>
+</template>
+
+<script>
+// @ is an alias to /src
+//import HelloWorld from '@/components/HelloWorld.vue'
+
+//export default {
+ // name: 'home',
+  //components: {
+   // HelloWorld
+//  }
+//}
+</script>
+
+<style></style>
